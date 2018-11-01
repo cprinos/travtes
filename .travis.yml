@@ -1,2 +1,2 @@
 language: python
-script: t1.py
+script: python t1.py
